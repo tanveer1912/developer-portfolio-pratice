@@ -76,3 +76,25 @@ section {
     border-radius: 10px;
 
 }
+
+.go {
+    display: flex;
+    background-color: antiquewhite;
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 20px;
+    padding-left: 150px;
+    padding-bottom: 15px;
+}
+
+.first {
+    width: 40%;
+}
+
+
+
+
+
+
+
+}
